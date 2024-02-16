@@ -1,4 +1,4 @@
-# My notes, scripts etc. during learning Data Engineering
+# My notes and codes during learning Data Engineering
 My name's Dzmitry Slaunikau and I'm a pro-active experienced financial professional with deep background in finance and management accounting shifting into Data Engineering.
 
 Since November, 2023 I've been learning at **Data & Analytics** programm of **EPAM**: 
