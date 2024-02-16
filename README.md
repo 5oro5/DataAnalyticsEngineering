@@ -1,5 +1,7 @@
-# My notes, scripts etc. during learning at EPAM Data Engineering
-My name's Dzmitry Slaunikau and since November, 2023 I've been learning at **Data & Analytics** programm of EPAM: 
+# My notes, scripts etc. during learning Data Engineering
+My name's Dzmitry Slaunikau and I'm a pro-active experienced financial professional with deep background in finance and management accounting shifting into Data Engineering.
+
+Since November, 2023 I've been learning at **Data & Analytics** programm of **EPAM**: 
 https://training.epam.com/en/skill/DataAnalyticsEngineering
 
 I got also some relevant courses at Coursera, LearnSQL.com etc., as well as in January, 2024 I was awarded with "**Google Data Analytics**" Professional Certification https://coursera.org/share/e5f5a56e0d5e101b03f1c213c75aae92
